@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0001 service class id list</key>
+	<array>
+		<data>+ex7xJU8EdKYTlJUANyeCQ==</data>
+	</array>
+	<key>0004 protocol descriptor list</key>
+	<array>
+		<array>
+			<data>AQA=</data>
+			<dict>
+				<key>DataElementSize</key>
+				<integer>2</integer>
+				<key>DataElementType</key>
+				<integer>1</integer>
+				<key>DataElementValue</key>
+				<integer>4097</integer>
+			</dict>
+		</array>
+	</array>
+	<key>0005 browsegroup list</key>
+	<array>
+		<data>EAI=</data>
+	</array>
+	<key>0009 profile descriptor list</key>
+	<array>
+		<data>EQY=</data>
+		<dict>
+			<key>DataElementSize</key>
+			<integer>2</integer>
+			<key>DataElementType</key>
+			<integer>1</integer>
+			<key>DataElementValue</key>
+			<integer>256</integer>
+		</dict>
+	</array>
+	<key>0100 service name</key>
+	<string>obex over l2cap</string>
+</dict>
+</plist>
